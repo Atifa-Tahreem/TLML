@@ -35,14 +35,6 @@ Just open any TLML file → click **Preview** → see the rendered HTML instantl
 
 ---
 
-## 🎥 Demo Video
-## 🎥 Demo Video
-
-Watch TLML in action on YouTube:  
-[![TLML Demo](https://img.youtube.com/vi/cL9elQpWLI4/0.jpg)](https://www.youtube.com/watch?v=cL9elQpWLI4)
-
----
-
 ## 🗺️ Roadmap
 
 - ✅ Core syntax (headings, lists, formatting)  
