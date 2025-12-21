@@ -6,5 +6,5 @@
 **Q:** Do images always work?  
 **A:** Make sure image paths are correct and accessible in your workspace.
 
-**Q:** Is TLML beginner'sfriendly?  
+**Q:** Is TLML beginner friendly?  
 **A:** Yes! TLML is lightweight and easy to pick up.
