@@ -1,7 +1,5 @@
 #  TLML (TLML (turbo lightweight markup language)
 
-**TLML Lightweight markup made simple, built with passion!** 
-
 TLML is a custom **lightweight markup language** that converts to **HTML**.  
 It’s perfect for **documentation, articles, novels, notes, and webpages**.  
 
