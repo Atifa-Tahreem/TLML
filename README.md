@@ -16,26 +16,21 @@ It’s perfect for **documentation, articles, novels, notes, and webpages**.
 
  **Note:** TLML currently only converts to HTML.  
 
+You can look at .tlml files in VS Code with the TLML tool. Just open the file, click Preview, and the HTML shows up.
 ---
 
-## 📚 Documentation
+##  Documentation
 
-- 📖 [Getting Started](./GETTING_STARTED.md)  
-- 📝 [Syntax Reference](./SYNTAX.md)  
-- ❓ [FAQ](./FAQ.md)  
-
----
-
-## 👀 Preview
-
-You can preview `.tlml` files directly in **Visual Studio Code** using the included TLML extension.  
-Just open any TLML file → click **Preview** → see the rendered HTML instantly.  
+-  [Getting Started](./GETTING_STARTED.md)  
+-  [Syntax Reference](./SYNTAX.md)  
+-  [FAQ](./FAQ.md)  
 
 ---
+Headings, lists, and text styles
 
-- ✅ Core syntax (headings, lists, formatting)  
-- ✅ Tables, collapsible sections, colors  
-- ✅ VS Code live preview → HTML  
+Tables, foldable sections, and colors
+
+See it live in VS Code as HTML
 ---
 
 ## 📜 License
