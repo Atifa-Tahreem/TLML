@@ -33,6 +33,6 @@ Tables, foldable sections, and colors
 See it live in VS Code as HTML
 ---
 
-## 📜 License
+##  License
 
 Released under the **MIT licence**
