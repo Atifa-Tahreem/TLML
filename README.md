@@ -7,12 +7,12 @@ It’s perfect for **documentation, articles, novels, notes, and webpages**.
 
 ## Features
 
-- 📑 Headings, lists, tables  
-- 🔤 Bold, italic, inline code  
-- 📦 Collapsible sections  
-- 🌈 Colors and images  
-- 🖼️ Media support (basic embeds)  
-- ⚡ Simple **HTML export**  
+-  Headings, lists, tables  
+-  Bold, italic, inline code  
+-  Collapsible sections  
+-  Colors and images  
+-  Media support (basic embeds)  
+-  Simple **HTML export**  
 
  **Note:** TLML currently only converts to HTML.  
 
